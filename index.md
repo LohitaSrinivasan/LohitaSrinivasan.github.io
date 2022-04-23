@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Human Capital Analytics Consulting Project](https://github.com/LohitaSrinivasan/Human-Capital-Analytics-Consulting-Project---Predictive-Modelling-to-assess-Leadership-Effectiveness) and ![Image](https://tse2.mm.bing.net/th?id=OIP.jtzLV8nbTiaPVkbonKgPJAHaDk&pid=Api&P=0&w=330&h=159)
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
