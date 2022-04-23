@@ -23,7 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Human Capital Analytics Consulting Project](https://github.com/LohitaSrinivasan/Human-Capital-Analytics-Consulting-Project---Predictive-Modelling-to-assess-Leadership-Effectiveness) and ![Image](https://tse2.mm.bing.net/th?id=OIP.jtzLV8nbTiaPVkbonKgPJAHaDk&pid=Api&P=0&w=330&h=159)
+[Human Capital Analytics Consulting Project](https://github.com/LohitaSrinivasan/Human-Capital-Analytics-Consulting-Project---Predictive-Modelling-to-assess-Leadership-Effectiveness) and 
+
+[Image](https://tse2.mm.bing.net/th?id=OIP.jtzLV8nbTiaPVkbonKgPJAHaDk&pid=Api&P=0&w=330&h=159)
 
 ```
 
